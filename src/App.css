@@ -1,0 +1,28 @@
+body{
+  background-color: black;
+}
+
+nav {
+  width: 100%;
+  border-radius: 10px;
+  padding: 1rem 2rem;
+  background: rgb(195, 85, 228);
+}
+
+nav h3{
+  font-size: 2rem;
+  color: aqua;
+  cursor: pointer;
+}
+
+.box{
+  color: aqua;
+  padding: 1rem 2rem;
+  height: auto;
+  border-radius: 1rem;
+  border: 3px solid rgb(195, 85, 228);
+}
+
+.categories_input{
+  width: 25%;
+}
